@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ひかりのうた - Hikari no uta",
+  "base_artist": "jo0ji",
+  "createdAt": "2026-02-20T18:18:43.961371Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひかりのうた",
+      "artist": "jo0ji",
+      "has_synced": false,
+      "path": "select/pl_01_ひかりのうた_jo0ji.txt"
+    }
+  ]
+}
